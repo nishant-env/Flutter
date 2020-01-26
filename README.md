@@ -1,1 +1,1 @@
-# Flutter
+1. Using basic knowledge of flutter widgets and stepping one step ahead, I utilized stateful widget and gained a little knowledge on        streams and stream controllers and constructed a login screen that does authentication but only on local level using regular expressions, not on real API.
