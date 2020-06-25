@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "843492894606",
+    "firebase_url": "https://test-consultancy.firebaseio.com",
+    "project_id": "test-consultancy",
+    "storage_bucket": "test-consultancy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843492894606:android:92d04979ce65b3d10526df",
+        "android_client_info": {
+          "package_name": "com.swimmers.myChatProject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843492894606-qhl2cta1vpnhes16eocuecafarjeabk0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.swimmers.myChatProject",
+            "certificate_hash": "c0c1faf327c327358bdd2efe1923238cc60a2a97"
+          }
+        },
+        {
+          "client_id": "843492894606-0j6d479tmk718fkdfsrprcctjqkbklvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAng1UdqCIm64Jb-yJiKjOICP7Z5OhzHYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843492894606-0j6d479tmk718fkdfsrprcctjqkbklvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
